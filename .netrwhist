@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/dfinn/git/puppet-recipes/manifests'
+let g:netrw_dirhist_2='/Users/dfinn/git/devops/dfinnScripts'
+let g:netrw_dirhist_3='/Users/dfinn/.vim'
+let g:netrw_dirhist_4='/Users/dfinn/git/puppet/puppet-recipes/modules/ad_auth/manifests'
+let g:netrw_dirhist_5='/Users/dfinn/git/puppet/puppet-recipes/manifests/classes'
+let g:netrw_dirhist_6='/Users/dfinn/vmware-python-api/pyvmomi-community-samples/samples'
+let g:netrw_dirhist_7='/Users/dfinn/git/ps-docker/docked-benefits'
+let g:netrw_dirhist_8='/Users/dfinn/git/puppet'
+let g:netrw_dirhist_9='/Users/dfinn/vmware-python-api'
