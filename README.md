@@ -9,5 +9,5 @@ This uses pathogen, syntastic, ag, nerdtree, fugitive, tcomment and a whole slew
 ## Install
 
 * `cd ~`
-* `git clone https://github.com/danfinn/vimsetup .vim`
+* `git clone --recursive https://github.com/danfinn/vimsetup .vim`
 * `cp .vim/vimrc .vimrc`
