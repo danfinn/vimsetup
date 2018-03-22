@@ -1,4 +1,5 @@
 set nocp
+set tabpagemax=100
 source ~/.vim/autoload/pathogen.vim
 execute pathogen#infect()
 
