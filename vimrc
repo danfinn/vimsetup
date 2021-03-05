@@ -32,3 +32,5 @@ set laststatus=2
 set statusline+=%{fugitive#statusline()}
 set statusline+=[%F]
 set statusline+=[%{strftime(\"%m/%d/%y\ -\ %H:%M\")}]
+
+
